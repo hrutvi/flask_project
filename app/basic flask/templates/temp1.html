@@ -1,0 +1,13 @@
+<html>
+<body>
+ Hi,{{user.username}}
+
+{% for post in posts %}
+
+<p>{{post.author.username}} says:
+<b>{{post.body}}</b></p>
+
+{% endfor %}
+
+</body>
+</html>
