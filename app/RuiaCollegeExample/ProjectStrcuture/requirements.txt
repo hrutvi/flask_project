@@ -1,4 +1,4 @@
-Flask==0.10.1
+Flask==1.0
 Flask-Bootstrap==2.3.2.2
 Flask-WTF==0.9.1
 Jinja2==2.7.1
